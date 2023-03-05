@@ -41,9 +41,12 @@ to impactful projects that challenge me to grow as a developer. Let's create som
 
 ### 💼 My Work
 
-
+<video controls>  
+   <source src="https://i.imgur.com/VPmJCfA.mp4" type="video/ogg">  
+  Your browser does not support the html video tag.  
+</video>  
  <a href="https://www.linkedin.com/">
-         <blockquote class="imgur-embed-pub" lang="en" data-id="ASgSc1v"><a href="https://imgur.com/ASgSc1v">View post on imgur.com</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+         <img alt="linkedin" title="Follow me on LinkedIn!" width="400" height="250"src="https://i.imgur.com/1yUhF0u.gif" />
  </a> 
   <a href="https://www.linkedin.com/">
          <img alt="linkedin" title="Follow me on LinkedIn!" width="400" height="250"src="https://i.imgur.com/1yUhF0u.gif" />
