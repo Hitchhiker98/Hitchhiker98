@@ -40,8 +40,7 @@ to impactful projects that challenge me to grow as a developer. Let's create som
 
 ### 💼 My Work
 
-<div style="display: grid; grid-template-columns: auto auto;
-  gap: 10px; color: red; background-color: blue">
+<div style="color: red">
   I am gay
 </div>
 
