@@ -42,7 +42,7 @@ to impactful projects that challenge me to grow as a developer. Let's create som
 ### 💼 My Work
 
 <video controls>  
-   <source src="https://i.imgur.com/VPmJCfA.mp4" type="video/ogg">  
+   <source src="https://i.imgur.com/VPmJCfA.mp4" type="video/mp4">  
   Your browser does not support the html video tag.  
 </video>  
  <a href="https://www.linkedin.com/">
