@@ -40,15 +40,19 @@ to impactful projects that challenge me to grow as a developer. Let's create som
 
 ### 💼 My Work
 
-<div style="color: red">
-  I am gay
-</div>
+<!-- BEGIN YOUTUBE-CARDS -->
+[![The Making of Linux: The World's First Open-Source Operating System](https://media-cldnry.s-nbcnews.com/image/upload/t_fit-1500w,f_auto,q_auto:best/streams/2013/March/130326/1C6639340-google-logo.jpg)](https://www.youtube.com/watch?v=E0Q9KnYSVLc)
+[![If you use ChatGPT to CHEAT, do this ONE THING!](https://ytcards.demolab.com/?id=Xffgj-RjOXw&title=If+you+use+ChatGPT+to+CHEAT%2C+do+this+ONE+THING%21&lang=en&timestamp=1676556019&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&duration=54 "If you use ChatGPT to CHEAT, do this ONE THING!")](https://www.youtube.com/watch?v=Xffgj-RjOXw)
+[![The ONLY Way to Get BETTER at CODING](https://ytcards.demolab.com/?id=Xj6lUopD8fA&title=The+ONLY+Way+to+Get+BETTER+at+CODING&lang=en&timestamp=1676302213&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&duration=36 "The ONLY Way to Get BETTER at CODING")](https://www.youtube.com/watch?v=Xj6lUopD8fA)
+[![Why Everyone's Obsessed with ChatGPT](https://ytcards.demolab.com/?id=PvWk3KzakBU&title=Why+Everyone%27s+Obsessed+with+ChatGPT&lang=en&timestamp=1676056500&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&duration=516 "Why Everyone's Obsessed with ChatGPT")](https://www.youtube.com/watch?v=PvWk3KzakBU)
+[![Alan Turing "On Computable Numbers, with an Application to the Entscheidungsproblem" 1936 Paper](https://ytcards.demolab.com/?id=2ioj41cvKPY&title=Alan+Turing+%22On+Computable+Numbers%2C+with+an+Application+to+the+Entscheidungsproblem%22+1936+Paper&lang=en&timestamp=1675872001&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&duration=60 "Alan Turing \"On Computable Numbers, with an Application to the Entscheidungsproblem\" 1936 Paper")](https://www.youtube.com/watch?v=2ioj41cvKPY)
+[![THIS 1936 Paper Theorized the FIRST Computer EVER, by Alan Turing](https://ytcards.demolab.com/?id=56HGIcFkej0&title=THIS+1936+Paper+Theorized+the+FIRST+Computer+EVER%2C+by+Alan+Turing&lang=en&timestamp=1675779300&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&duration=569 "THIS 1936 Paper Theorized the FIRST Computer EVER, by Alan Turing")](https://www.youtube.com/watch?v=56HGIcFkej0)
+<!-- END YOUTUBE-CARDS -->
 
 #
 
 <details>
  <summary><h3>📚💻 My Coding Journey</h3></summary>
- ``` Javascript
   As a former video production editor, I had always been fascinated by the creative and technical aspects of digital media. However, my passion for technology and problem-solving  led me down a different path - Web Development.
  
 Starting from scratch, I spent countless hours diving into various online resources, including freeCodeCamp's courses and YouTube tutorials, to gain a solid understanding of front-end development. Through consistent practice and dedication, I began to build my own web projects and quickly fell in love with the process of bringing ideas to life through code.
@@ -58,5 +62,5 @@ Determined to further expand my knowledge and skills, I pursued Meta's Front-End
 However, I knew that to become a well-rounded full stack developer, I needed to deepen my understanding of back-end development. That's why I am currently enrolled in Meta's Back-End Developer Professional Certificate course, where I am learning about server-side programming, databases, and APIs.
  
 My journey into web development has been challenging yet incredibly rewarding. As a prospective full stack developer, I want to combine my passion for technology with my creativity and problem-solving skills to build innovative and impactful web applications. I am excited to continue pushing myself and exploring new possibilities in this dynamic field.
-```
+
 
