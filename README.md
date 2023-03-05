@@ -1,4 +1,4 @@
-# 👓 Giorgi Giorgadze
+# <span stlye="font-size:16px">👓<span/> Giorgi Giorgadze
 
 **`(Aspiring Web Developer, Video Production Editor)`**
 
@@ -9,7 +9,7 @@ to impactful projects that challenge me to grow as a developer. Let's create som
 
 ---
 
-### 🔨 Languages and Tools
+### <span stlye="font-size:18px">🔨<span/> Languages and Tools
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40px" align="left" style="padding-right: 10px"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40px" align="left" style="padding-right: 10px"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40px" align="left" style="padding-right: 10px"/>
@@ -24,7 +24,20 @@ to impactful projects that challenge me to grow as a developer. Let's create som
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40px" align="left" style="padding-right: 10px"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="35px" align="left" style="padding-right: 10px"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40px" align="left" style="padding-right: 10px"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" width="40px" align="left" style="padding-right: 10px"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" width="40px" align="left" style="padding-right: 10px"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40px" align="left" style="padding-right: 10px"/>
 
 <hr>
+
+<detals> 
+  <summary><h3><span stlye="font-size:18px">📚<span/> My Coding Journey</h3></summary>
+As a former video production editor, I had always been fascinated by the creative and technical aspects of digital media. However, my passion for technology and problem-solving  led me down a different path - Web Development.
+
+Starting from scratch, I spent countless hours diving into various online resources, including freeCodeCamp's courses and YouTube tutorials, to gain a solid understanding of front-end development. Through consistent practice and dedication, I began to build my own web projects and quickly fell in love with the process of bringing ideas to life through code.
+
+Determined to further expand my knowledge and skills, I pursued Meta's Front-End Developer Professional Certificate and completed the program with flying colors. The program equipped me with a comprehensive understanding of React library, modern front-end development practices and tools, test-driven development, version control and so on.
+
+However, I knew that to become a well-rounded full stack developer, I needed to deepen my understanding of back-end development. That's why I am currently enrolled in Meta's Back-End Developer Professional Certificate course, where I am learning about server-side programming, databases, and APIs.
+
+My journey into web development has been challenging yet incredibly rewarding. As a prospective full stack developer, I want to combine my passion for technology with my creativity and problem-solving skills to build innovative and impactful web applications. I am excited to continue pushing myself and exploring new possibilities in this dynamic field.
