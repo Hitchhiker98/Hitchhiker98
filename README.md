@@ -48,7 +48,8 @@ to impactful projects that challenge me to grow as a developer. Let's create som
 
 <details>
  <summary><h3>📚💻 My Coding Journey</h3></summary>
- ```  As a former video production editor, I had always been fascinated by the creative and technical aspects of digital media. However, my passion for technology and problem-solving  led me down a different path - Web Development.
+ ``` Javascript
+  As a former video production editor, I had always been fascinated by the creative and technical aspects of digital media. However, my passion for technology and problem-solving  led me down a different path - Web Development.
  
 Starting from scratch, I spent countless hours diving into various online resources, including freeCodeCamp's courses and YouTube tutorials, to gain a solid understanding of front-end development. Through consistent practice and dedication, I began to build my own web projects and quickly fell in love with the process of bringing ideas to life through code.
  
