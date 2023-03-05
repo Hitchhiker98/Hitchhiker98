@@ -9,7 +9,8 @@ to impactful projects that challenge me to grow as a developer. Let's create som
 
   <p align="left">
       <a href="https://www.linkedin.com/">
-         <img alt="linkedin profile" title="Follow me on LinkedIn" src="<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original-wordmark.svg" />"/></a> 
+         <img alt="linkedin" title="Follow me on LinkedIn!" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original-wordmark.svg" />
+    </a> 
    </p>
 ---
  
