@@ -10,7 +10,8 @@ to impactful projects that challenge me to grow as a developer. Let's create som
   <p align="left">
       <a href="https://www.linkedin.com/">
          <img alt="linkedin" title="Follow me on LinkedIn!" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
-    </a> 
+          <blockquote class="imgur-embed-pub" lang="en" data-id="ASgSc1v"><a href="https://imgur.com/ASgSc1v">View post on imgur.com</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+  </a> 
 
    </p>
    
