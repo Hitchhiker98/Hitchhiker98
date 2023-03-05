@@ -41,47 +41,8 @@ to impactful projects that challenge me to grow as a developer. Let's create som
 ### 💼 My Work
 
 <div style="display: grid; grid-template-columns: auto auto;
-  gap: 10px">
-  <div width="50%">
-    <a href="https://www.linkedin.com/">
-         <img alt="linkedin" title="Follow me on LinkedIn!" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
-    </a> 
-  </div>
-  <div width="50%">
-    <a href="https://www.linkedin.com/">
-         <img alt="linkedin" title="Follow me on LinkedIn!" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
-    </a> 
-  </div>
-  <div style="background-color: red">
-    <a href="https://www.linkedin.com/">
-         <img alt="linkedin" title="Follow me on LinkedIn!" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
-    </a> 
-  </div>
-  <div style="background-color: red">
-    <a href="https://www.linkedin.com/">
-         <img alt="linkedin" title="Follow me on LinkedIn!" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
-    </a> 
-  </div>
-  <div style="background-color: red">
-    <a href="https://www.linkedin.com/">
-         <img alt="linkedin" title="Follow me on LinkedIn!" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
-    </a> 
-  </div>
-  <div style="background-color: red">
-    <a href="https://www.linkedin.com/">
-         <img alt="linkedin" title="Follow me on LinkedIn!" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
-    </a> 
-  </div>
-  <div style="background-color: red">
-    <a href="https://www.linkedin.com/">
-         <img alt="linkedin" title="Follow me on LinkedIn!" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
-    </a> 
-  </div>
-  <div style="background-color: red">
-    <a href="https://www.linkedin.com/">
-         <img alt="linkedin" title="Follow me on LinkedIn!" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
-    </a> 
-  </div>
+  gap: 10px; color: red; background-color: blue">
+  I am gay
 </div>
 
 #
