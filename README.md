@@ -40,14 +40,12 @@ to impactful projects that challenge me to grow as a developer. Let's create som
 
 ### 💼 My Work
 
-<!-- BEGIN YOUTUBE-CARDS -->
-[![The Making of Linux: The World's First Open-Source Operating System](https://i.imgur.com/u8TiB1k.jpg)](https://www.youtube.com/watch?v=E0Q9KnYSVLc)
-[![If you use ChatGPT to CHEAT, do this ONE THING!](https://ytcards.demolab.com/?id=Xffgj-RjOXw&title=If+you+use+ChatGPT+to+CHEAT%2C+do+this+ONE+THING%21&lang=en&timestamp=1676556019&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&duration=54 "If you use ChatGPT to CHEAT, do this ONE THING!")](https://www.youtube.com/watch?v=Xffgj-RjOXw)
-[![The ONLY Way to Get BETTER at CODING](https://ytcards.demolab.com/?id=Xj6lUopD8fA&title=The+ONLY+Way+to+Get+BETTER+at+CODING&lang=en&timestamp=1676302213&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&duration=36 "The ONLY Way to Get BETTER at CODING")](https://www.youtube.com/watch?v=Xj6lUopD8fA)
-[![Why Everyone's Obsessed with ChatGPT](https://ytcards.demolab.com/?id=PvWk3KzakBU&title=Why+Everyone%27s+Obsessed+with+ChatGPT&lang=en&timestamp=1676056500&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&duration=516 "Why Everyone's Obsessed with ChatGPT")](https://www.youtube.com/watch?v=PvWk3KzakBU)
-[![Alan Turing "On Computable Numbers, with an Application to the Entscheidungsproblem" 1936 Paper](https://ytcards.demolab.com/?id=2ioj41cvKPY&title=Alan+Turing+%22On+Computable+Numbers%2C+with+an+Application+to+the+Entscheidungsproblem%22+1936+Paper&lang=en&timestamp=1675872001&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&duration=60 "Alan Turing \"On Computable Numbers, with an Application to the Entscheidungsproblem\" 1936 Paper")](https://www.youtube.com/watch?v=2ioj41cvKPY)
-[![THIS 1936 Paper Theorized the FIRST Computer EVER, by Alan Turing](https://ytcards.demolab.com/?id=56HGIcFkej0&title=THIS+1936+Paper+Theorized+the+FIRST+Computer+EVER%2C+by+Alan+Turing&lang=en&timestamp=1675779300&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&duration=569 "THIS 1936 Paper Theorized the FIRST Computer EVER, by Alan Turing")](https://www.youtube.com/watch?v=56HGIcFkej0)
-<!-- END YOUTUBE-CARDS -->
+ <a href="https://www.linkedin.com/">
+         <img alt="linkedin" title="Follow me on LinkedIn!" width="40px" src="https://imgur.com/DSEddro" />
+ </a> 
+ <a href="https://www.linkedin.com/">
+         <img alt="linkedin" title="Follow me on LinkedIn!" width="40px" src="https://i.imgur.com/1yUhF0u.gif" />
+ </a> 
 
 #
 
