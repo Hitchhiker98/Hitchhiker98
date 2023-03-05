@@ -40,11 +40,13 @@ to impactful projects that challenge me to grow as a developer. Let's create som
 
 ### 💼 My Work
 
- <a href="https://www.linkedin.com/">
-         <img alt="linkedin" title="Follow me on LinkedIn!" width="40px" src="https://imgur.com/DSEddro" />
+ <a href="https://www.linkedin.com/">      
+  <video width="375px" autoplay>
+   <source src="https://i.imgur.com/DSEddro.mp4" type="video/mp4">
+  </video>
  </a> 
  <a href="https://www.linkedin.com/">
-         <img alt="linkedin" title="Follow me on LinkedIn!" width="40px" src="https://i.imgur.com/1yUhF0u.gif" />
+         <img alt="linkedin" title="Follow me on LinkedIn!" width="375px" src="https://i.imgur.com/1yUhF0u.gif" />
  </a> 
 
 #
