@@ -14,10 +14,8 @@ to impactful projects that challenge me to grow as a developer. Let's create som
 
    </p>
 
-
- 
   ### 🔨 Languages and Tools
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="25px" align="left" style="padding-right: 10px" alt="javascript"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="30px" align="left" style="padding-right: 10px" alt="javascript"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="30px" align="left" style="padding-right: 10px" alt="html5"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="30px" align="left" style="padding-right: 10px" alt="css3"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="30px" align="left" style="padding-right: 10px" alt="sass"/>
@@ -32,11 +30,12 @@ to impactful projects that challenge me to grow as a developer. Let's create som
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="30px" align="left" style="padding-right: 10px" alt="git"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="30px" align="left" style="padding-right: 10px" alt="github"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" width="30px" align="left" style="padding-right: 10px" alt="jest"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" width="30px" align="left" style="padding-right: 10px" alt="photoshop"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="25px" align="left" style="padding-right: 0px" alt="figma"/>
-<br/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" width="25px" align="left" style="padding-right: 10px" alt="photoshop"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="25px" align="left"  alt="figma"/>
+<br>
 
 ****
+#
 
 <details>
  <summary><h3>📚💻 My Coding Journey</h3></summary>
