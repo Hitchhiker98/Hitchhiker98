@@ -1,4 +1,4 @@
-# <span style="font-size: 26px">👓<span/> Giorgi Giorgadze
+# 👓 Giorgi Giorgadze
 
 **`(Aspiring Web Developer, Video Production Editor)`**
 
@@ -16,7 +16,7 @@ to impactful projects that challenge me to grow as a developer. Let's create som
 
 ****
  
-  ### <span width:"60px">🔨</span> Languages and Tools
+  ### 🔨 Languages and Tools
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="30px" align="left" style="padding-right: 10px" alt="javascript"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="30px" align="left" style="padding-right: 10px" alt="html5"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="30px" align="left" style="padding-right: 10px" alt="css3"/>
@@ -36,7 +36,7 @@ to impactful projects that challenge me to grow as a developer. Let's create som
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="30px" align="left" style="padding-right: 10px" alt="figma"/>
 <br />
 
-<hr />
+
 
 <details>
  <summary><h3>📚💻 My Coding Journey</h3></summary>
