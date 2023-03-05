@@ -13,6 +13,8 @@ to impactful projects that challenge me to grow as a developer. Let's create som
     </a> 
 
    </p>
+   
+****
 
   ### 🔨 Languages and Tools
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="30px" align="left" style="padding-right: 10px" alt="javascript"/>
@@ -34,7 +36,7 @@ to impactful projects that challenge me to grow as a developer. Let's create som
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="25px" align="left"  alt="figma"/>
 <br>
 
-****
+
 #
 
 <details>
