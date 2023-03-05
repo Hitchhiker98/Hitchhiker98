@@ -40,7 +40,7 @@ to impactful projects that challenge me to grow as a developer. Let's create som
 #
 
 ### 💼 My Work
-![Camera_2](https://user-images.githubusercontent.com/101822192/222968422-d90db92d-449a-42c3-ad8b-7a88a8d1110d.gif)
+<video src="https://user-images.githubusercontent.com/101822192/222968422-d90db92d-449a-42c3-ad8b-7a88a8d1110d.gif">  </video>
 
 <video controls>  
    <source src="https://i.imgur.com/VPmJCfA.mp4" type="video/mp4">  
