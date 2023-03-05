@@ -17,7 +17,7 @@ to impactful projects that challenge me to grow as a developer. Let's create som
  
  
 
-### <span style="font-size: 45px">🔨<span/> Languages and Tools
+### <span width:"60px" 🔨 Languages and Tools
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="30px" align="left" style="padding-right: 10px" alt="javascript"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="30px" align="left" style="padding-right: 10px" alt="html5"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="30px" align="left" style="padding-right: 10px" alt="css3"/>
@@ -35,7 +35,7 @@ to impactful projects that challenge me to grow as a developer. Let's create som
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" width="30px" align="left" style="padding-right: 10px" alt="jest"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" width="30px" align="left" style="padding-right: 10px" alt="photoshop"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="30px" align="left" style="padding-right: 10px" alt="figma"/>
-<hr>
+<br />
 
 
 
