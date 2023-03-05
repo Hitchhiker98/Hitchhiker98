@@ -41,7 +41,7 @@ to impactful projects that challenge me to grow as a developer. Let's create som
 ### 💼 My Work
 
 <!-- BEGIN YOUTUBE-CARDS -->
-[![The Making of Linux: The World's First Open-Source Operating System](https://drive.google.com/file/d/1XKnIB4FR1ckgLi0FxNeXY0mTEubHJ2dY/view?usp=share_link)](https://www.youtube.com/watch?v=E0Q9KnYSVLc)
+[![The Making of Linux: The World's First Open-Source Operating System](https://drive.google.com/file/d/1XKnIB4FR1ckgLi0FxNeXY0mTEubHJ2dY/view?usp=share_link](https://i.imgur.com/u8TiB1k.jpg))](https://www.youtube.com/watch?v=E0Q9KnYSVLc)
 [![If you use ChatGPT to CHEAT, do this ONE THING!](https://ytcards.demolab.com/?id=Xffgj-RjOXw&title=If+you+use+ChatGPT+to+CHEAT%2C+do+this+ONE+THING%21&lang=en&timestamp=1676556019&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&duration=54 "If you use ChatGPT to CHEAT, do this ONE THING!")](https://www.youtube.com/watch?v=Xffgj-RjOXw)
 [![The ONLY Way to Get BETTER at CODING](https://ytcards.demolab.com/?id=Xj6lUopD8fA&title=The+ONLY+Way+to+Get+BETTER+at+CODING&lang=en&timestamp=1676302213&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&duration=36 "The ONLY Way to Get BETTER at CODING")](https://www.youtube.com/watch?v=Xj6lUopD8fA)
 [![Why Everyone's Obsessed with ChatGPT](https://ytcards.demolab.com/?id=PvWk3KzakBU&title=Why+Everyone%27s+Obsessed+with+ChatGPT&lang=en&timestamp=1676056500&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&duration=516 "Why Everyone's Obsessed with ChatGPT")](https://www.youtube.com/watch?v=PvWk3KzakBU)
