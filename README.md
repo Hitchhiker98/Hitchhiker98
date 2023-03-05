@@ -42,29 +42,19 @@ to impactful projects that challenge me to grow as a developer. Let's create som
 
 
  <a href="https://www.linkedin.com/">
-         <img alt="linkedin" title="Follow me on LinkedIn!" width="375px" src="https://i.imgur.com/1yUhF0u.gif" />
+         <img alt="linkedin" title="Follow me on LinkedIn!" width="375px" height="250"src="https://i.imgur.com/1yUhF0u.gif" />
  </a> 
   <a href="https://www.linkedin.com/">
-         <img alt="linkedin" title="Follow me on LinkedIn!" width="375px" src="https://i.imgur.com/1yUhF0u.gif" />
+         <img alt="linkedin" title="Follow me on LinkedIn!" width="375px" height="250"src="https://i.imgur.com/1yUhF0u.gif" />
  </a> 
   <a href="https://www.linkedin.com/">
-         <img alt="linkedin" title="Follow me on LinkedIn!" width="375px" src="https://i.imgur.com/1yUhF0u.gif" />
+         <img alt="linkedin" title="Follow me on LinkedIn!" width="375px" height="250"src="https://i.imgur.com/1yUhF0u.gif" />
  </a> 
   <a href="https://www.linkedin.com/">
-         <img alt="linkedin" title="Follow me on LinkedIn!" width="375px" src="https://i.imgur.com/1yUhF0u.gif" />
+         <img alt="linkedin" title="Follow me on LinkedIn!" width="375px" height="250"src="https://i.imgur.com/1yUhF0u.gif" />
  </a> 
-  <a href="https://www.linkedin.com/">
-         <img alt="linkedin" title="Follow me on LinkedIn!" width="375px" src="https://i.imgur.com/1yUhF0u.gif" />
- </a> 
-  <a href="https://www.linkedin.com/">
-         <img alt="linkedin" title="Follow me on LinkedIn!" width="375px" src="https://i.imgur.com/1yUhF0u.gif" />
- </a> 
-  <a href="https://www.linkedin.com/">
-         <img alt="linkedin" title="Follow me on LinkedIn!" width="375px" src="https://i.imgur.com/1yUhF0u.gif" />
- </a> 
-  <a href="https://www.linkedin.com/">
-         <img alt="linkedin" title="Follow me on LinkedIn!" width="375px" src="https://i.imgur.com/1yUhF0u.gif" />
- </a> 
+  
+
 
 #
 
