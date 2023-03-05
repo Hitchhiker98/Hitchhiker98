@@ -36,6 +36,53 @@ to impactful projects that challenge me to grow as a developer. Let's create som
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="25px" align="left"  alt="figma"/>
 <br>
 
+#
+
+### 💼 My Work
+
+<div style="display: grid; grid-template-columns: auto auto;
+  gap: 10px">
+  <div style="background-color: red">
+    <a href="https://www.linkedin.com/">
+         <img alt="linkedin" title="Follow me on LinkedIn!" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
+    </a> 
+  </div>
+  <div style="background-color: red">
+    <a href="https://www.linkedin.com/">
+         <img alt="linkedin" title="Follow me on LinkedIn!" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
+    </a> 
+  </div>
+  <div style="background-color: red">
+    <a href="https://www.linkedin.com/">
+         <img alt="linkedin" title="Follow me on LinkedIn!" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
+    </a> 
+  </div>
+  <div style="background-color: red">
+    <a href="https://www.linkedin.com/">
+         <img alt="linkedin" title="Follow me on LinkedIn!" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
+    </a> 
+  </div>
+  <div style="background-color: red">
+    <a href="https://www.linkedin.com/">
+         <img alt="linkedin" title="Follow me on LinkedIn!" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
+    </a> 
+  </div>
+  <div style="background-color: red">
+    <a href="https://www.linkedin.com/">
+         <img alt="linkedin" title="Follow me on LinkedIn!" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
+    </a> 
+  </div>
+  <div style="background-color: red">
+    <a href="https://www.linkedin.com/">
+         <img alt="linkedin" title="Follow me on LinkedIn!" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
+    </a> 
+  </div>
+  <div style="background-color: red">
+    <a href="https://www.linkedin.com/">
+         <img alt="linkedin" title="Follow me on LinkedIn!" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
+    </a> 
+  </div>
+</div>
 
 #
 
