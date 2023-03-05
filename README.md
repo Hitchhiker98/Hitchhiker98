@@ -45,7 +45,7 @@ to impactful projects that challenge me to grow as a developer. Let's create som
 
 
  <a href="https://www.linkedin.com/">
-         <img alt="linkedin" title="Follow me on LinkedIn!" width="400" height="250"src="https://drive.google.com/file/d/17AyPBr-CjJ7lPmmnqEYrDqoXE1RtIJUQ/view?usp=share_link" />
+         <img alt="linkedin" title="Follow me on here!" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmEwOGRiMzM5ZGYzY2E1OTFiYmE1MzI1OTRiODk4ODlhZWRkODhhYiZjdD1n/kFm8sNZ2xPtqIFf92H/giphy.gif" />
  </a> 
   <a href="https://www.linkedin.com/">
          <img alt="linkedin" title="Follow me on LinkedIn!" width="400" height="250"src="https://i.imgur.com/1yUhF0u.gif" />
