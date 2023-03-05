@@ -42,12 +42,12 @@ to impactful projects that challenge me to grow as a developer. Let's create som
 
 <div style="display: grid; grid-template-columns: auto auto;
   gap: 10px">
-  <div style="background-color: red">
+  <div width="50%">
     <a href="https://www.linkedin.com/">
          <img alt="linkedin" title="Follow me on LinkedIn!" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
     </a> 
   </div>
-  <div style="background-color: red">
+  <div width="50%">
     <a href="https://www.linkedin.com/">
          <img alt="linkedin" title="Follow me on LinkedIn!" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
     </a> 
