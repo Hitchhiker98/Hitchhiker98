@@ -42,13 +42,10 @@ to impactful projects that challenge me to grow as a developer. Let's create som
 ### 💼 My Work
 <video src="https://user-images.githubusercontent.com/101822192/222968422-d90db92d-449a-42c3-ad8b-7a88a8d1110d.gif">  </video>
 
-<video controls>  
-   <source src="https://i.imgur.com/VPmJCfA.mp4" type="video/mp4">  
-  Your browser does not support the html video tag.  
-</video>  
+
 
  <a href="https://www.linkedin.com/">
-         <img alt="linkedin" title="Follow me on LinkedIn!" width="400" height="250"src="https://i.imgur.com/1yUhF0u.gif" />
+         <img alt="linkedin" title="Follow me on LinkedIn!" width="400" height="250"src="https://drive.google.com/file/d/17AyPBr-CjJ7lPmmnqEYrDqoXE1RtIJUQ/view?usp=share_link" />
  </a> 
   <a href="https://www.linkedin.com/">
          <img alt="linkedin" title="Follow me on LinkedIn!" width="400" height="250"src="https://i.imgur.com/1yUhF0u.gif" />
