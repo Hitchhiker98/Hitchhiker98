@@ -1,4 +1,4 @@
-# 👓 Giorgi Giorgadze
+# Giorgi Giorgadze
 
 **`(Aspiring Web Developer, Video Production Editor)`**
 
