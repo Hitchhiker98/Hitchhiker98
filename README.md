@@ -50,11 +50,17 @@ to impactful projects that challenge me to grow as a developer. Let's create som
   <a href="https://www.linkedin.com/">
          <img alt="gameboy animation" src="https://media.giphy.com/media/mfWYJSsDdiQaWc84Kz/giphy.gif" />
  </a> 
-  <a href="https://www.linkedin.com/">
-         <img alt="linkedin" title="Follow me on LinkedIn!" width="375px" height="250"src="https://i.imgur.com/1yUhF0u.gif" />
+  <a href="https://github.com/Hitchhiker98/Youtube_Downloader-Converter">
+         <img alt="Youtube Downloader" title="Click me to go to repo!" width="375px" height="250"src="https://media.giphy.com/media/SPP648QcvQBiAGIARc/giphy.gif" />
  </a> 
-  <a href="https://www.linkedin.com/">
-         <img alt="linkedin" title="Follow me on LinkedIn!" width="375px" height="250"src="https://i.imgur.com/1yUhF0u.gif" />
+  <a href="https://github.com/Hitchhiker98/GeorgeBot_Landing_Page">
+         <img alt="GeorgeBot" title="Click me to go to repo!" width="375px" height="250"src="https://media.giphy.com/media/CYbgjYb3vg0x8aZYTI/giphy.gif" />
+ </a> 
+  <a href="https://github.com/Hitchhiker98/PicSearch_Chrome_Extension">
+         <img alt="PicSearch extension" title="Click me to go to repo!" width="375px" height="250"src="https://media.giphy.com/media/CYbgjYb3vg0x8aZYTI/giphy.gif" />
+ </a> 
+  <a href="https://github.com/Hitchhiker98/GreWords_Chrome_Extension">
+         <img alt="GRE words extension" title="Click me to go to repo!" width="375px" height="250"src="https://media.giphy.com/media/h6YKHzgTfIrP1gzKxj/giphy.gif" />
  </a> 
   
 
@@ -62,7 +68,7 @@ to impactful projects that challenge me to grow as a developer. Let's create som
 #
 
 <details>
- <summary><h3>📚💻 My Coding Journey</h3></summary>
+ <h3>📚💻 My Coding Journey</h3>
   As a former video production editor, I had always been fascinated by the creative and technical aspects of digital media. However, my passion for technology and problem-solving  led me down a different path - Web Development.
  
 Starting from scratch, I spent countless hours diving into various online resources, including freeCodeCamp's courses and YouTube tutorials, to gain a solid understanding of front-end development. Through consistent practice and dedication, I began to build my own web projects and quickly fell in love with the process of bringing ideas to life through code.
