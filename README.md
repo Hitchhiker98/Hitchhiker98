@@ -7,13 +7,6 @@ With a strong foundation in both front-end and back-end development, I am commit
 in the rapidly evolving world of web development. I am excited to collaborate with like-minded professionals and contribute 
 to impactful projects that challenge me to grow as a developer. Let's create something amazing together.
 
-  <p align="left">
-      <a href="https://www.linkedin.com/">
-         <img alt="linkedin" title="Follow me on LinkedIn!" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
-   
-  </a> 
-
-   </p>
    
 ****
 
@@ -43,31 +36,33 @@ to impactful projects that challenge me to grow as a developer. Let's create som
 <video src="https://user-images.githubusercontent.com/101822192/222968422-d90db92d-449a-42c3-ad8b-7a88a8d1110d.gif">  </video>
 
 
-
+###  CSS animations
  <a href="https://www.linkedin.com/">
          <img alt="camera animation"  width="375px" height="250" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmEwOGRiMzM5ZGYzY2E1OTFiYmE1MzI1OTRiODk4ODlhZWRkODhhYiZjdD1n/kFm8sNZ2xPtqIFf92H/giphy.gif" />
  </a> 
   <a href="https://www.linkedin.com/">
          <img alt="gameboy animation" width="375px" height="250" src="https://media.giphy.com/media/mfWYJSsDdiQaWc84Kz/giphy.gif" />
  </a> 
+ ###  Youtube Downloader and Chatbot
   <a href="https://github.com/Hitchhiker98/Youtube_Downloader-Converter">
          <img alt="Youtube Downloader" title="Click me to go to repo!" width="375px" height="250"src="https://media.giphy.com/media/SPP648QcvQBiAGIARc/giphy.gif" />
  </a> 
   <a href="https://github.com/Hitchhiker98/GeorgeBot_Landing_Page">
          <img alt="GeorgeBot" title="Click me to go to repo!" width="375px" height="250"src="https://media.giphy.com/media/CYbgjYb3vg0x8aZYTI/giphy.gif" />
  </a> 
+ ###  Chrome Extensions
   <a href="https://github.com/Hitchhiker98/PicSearch_Chrome_Extension">
          <img alt="PicSearch extension" title="Click me to go to repo!" width="375px" height="250"src="https://media.giphy.com/media/h6YKHzgTfIrP1gzKxj/giphy.gif" />
  </a> 
   <a href="https://github.com/Hitchhiker98/GreWords_Chrome_Extension">
-         <img alt="GRE words extension" title="Click me to go to repo!" width="375px" height="250"src="https://media.giphy.com/media/h6YKHzgTfIrP1gzKxj/giphy.gif" />
+         <img alt="GRE words extension" title="Click me to go to repo!" width="375px" height="250"src="https://media.giphy.com/media/VY5yntSpJwxFzWB5Z7/giphy.gif" />
  </a> 
   
 
 
 #
 
-<details>
+
  <h3>📚💻 My Coding Journey</h3>
   As a former video production editor, I had always been fascinated by the creative and technical aspects of digital media. However, my passion for technology and problem-solving  led me down a different path - Web Development.
  
