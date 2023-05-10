@@ -45,7 +45,7 @@ to impactful projects that challenge me to grow as a developer. Let's create som
          <img alt="GeorgeBot" title="Click me to go to repo!" width="400px" height="250px"src="https://media.giphy.com/media/CYbgjYb3vg0x8aZYTI/giphy.gif" />
  </a> 
  
- ### [PicSearch Chrome Extension](https://github.com/Hitchhiker98/PicSearch_Chrome_Extension) and [GRE Words Chrome Extension](https://github.com/Hitchhiker98/GreWords_Chrome_Extension)
+ ### [PicSearch Extension](https://github.com/Hitchhiker98/PicSearch_Chrome_Extension) and [GRE Words Extension](https://github.com/Hitchhiker98/GreWords_Chrome_Extension)
   <a href="https://github.com/Hitchhiker98/PicSearch_Chrome_Extension">
          <img alt="PicSearch extension" title="Click me to go to repo!" width="400px" height="250px"src="https://media.giphy.com/media/h6YKHzgTfIrP1gzKxj/giphy.gif" />
  </a> 
@@ -54,7 +54,7 @@ to impactful projects that challenge me to grow as a developer. Let's create som
  </a> 
   
 
-### CSS animations
+### [Camera Animation](https://github.com/Hitchhiker98/Camera_CSS_animation) and [GameBoy Animation](https://github.com/Hitchhiker98/Gameboy_CSS_animation)
  <a href="https://github.com/Hitchhiker98/Camera_CSS_animation">
          <img alt="camera animation"  width="400px" height="250px" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmEwOGRiMzM5ZGYzY2E1OTFiYmE1MzI1OTRiODk4ODlhZWRkODhhYiZjdD1n/kFm8sNZ2xPtqIFf92H/giphy.gif" />
  </a> 
