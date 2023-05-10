@@ -36,31 +36,31 @@ to impactful projects that challenge me to grow as a developer. Let's create som
 <video src="https://user-images.githubusercontent.com/101822192/222968422-d90db92d-449a-42c3-ad8b-7a88a8d1110d.gif">  </video>
 
 
-### CSS animations
- <a href="https://www.linkedin.com/">
-         <img alt="camera animation"  width="375px" height="250" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmEwOGRiMzM5ZGYzY2E1OTFiYmE1MzI1OTRiODk4ODlhZWRkODhhYiZjdD1n/kFm8sNZ2xPtqIFf92H/giphy.gif" />
- </a> 
-  <a href="https://www.linkedin.com/">
-         <img alt="gameboy animation" width="375px" height="250" src="https://media.giphy.com/media/mfWYJSsDdiQaWc84Kz/giphy.gif" />
- </a> 
  
  ### [Youtube Downloader](https://github.com/Hitchhiker98/Youtube_Downloader-Converter) and [Chatbot](https://github.com/Hitchhiker98/GeorgeBot_Landing_Page)
   <a href="https://github.com/Hitchhiker98/Youtube_Downloader-Converter">
-         <img alt="Youtube Downloader" title="Click me to go to repo!" width="375px" height="250"src="https://media.giphy.com/media/SPP648QcvQBiAGIARc/giphy.gif" />
+         <img alt="Youtube Downloader" title="Click me to go to repo!" width="400px" height="250px"src="https://media.giphy.com/media/SPP648QcvQBiAGIARc/giphy.gif" />
  </a> 
   <a href="https://github.com/Hitchhiker98/GeorgeBot_Landing_Page">
-         <img alt="GeorgeBot" title="Click me to go to repo!" width="375px" height="250"src="https://media.giphy.com/media/CYbgjYb3vg0x8aZYTI/giphy.gif" />
+         <img alt="GeorgeBot" title="Click me to go to repo!" width="400px" height="250px"src="https://media.giphy.com/media/CYbgjYb3vg0x8aZYTI/giphy.gif" />
  </a> 
  
  ### [PicSearch Chrome Extension](https://github.com/Hitchhiker98/PicSearch_Chrome_Extension) and [GRE Words Chrome Extension](https://github.com/Hitchhiker98/GreWords_Chrome_Extension)
   <a href="https://github.com/Hitchhiker98/PicSearch_Chrome_Extension">
-         <img alt="PicSearch extension" title="Click me to go to repo!" width="375px" height="250"src="https://media.giphy.com/media/h6YKHzgTfIrP1gzKxj/giphy.gif" />
+         <img alt="PicSearch extension" title="Click me to go to repo!" width="400px" height="250px"src="https://media.giphy.com/media/h6YKHzgTfIrP1gzKxj/giphy.gif" />
  </a> 
   <a href="https://github.com/Hitchhiker98/GreWords_Chrome_Extension">
-         <img alt="GRE words extension" title="Click me to go to repo!" width="375px" height="250"src="https://media.giphy.com/media/VY5yntSpJwxFzWB5Z7/giphy.gif" />
+         <img alt="GRE words extension" title="Click me to go to repo!" width="400px" height="250px"src="https://media.giphy.com/media/VY5yntSpJwxFzWB5Z7/giphy.gif" />
  </a> 
   
 
+### CSS animations
+ <a href="https://github.com/Hitchhiker98/Camera_CSS_animation">
+         <img alt="camera animation"  width="400px" height="250px" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmEwOGRiMzM5ZGYzY2E1OTFiYmE1MzI1OTRiODk4ODlhZWRkODhhYiZjdD1n/kFm8sNZ2xPtqIFf92H/giphy.gif" />
+ </a> 
+  <a href="https://github.com/Hitchhiker98/Gameboy_CSS_animation">
+         <img alt="gameboy animation" width="400px" height="250px" src="https://media.giphy.com/media/mfWYJSsDdiQaWc84Kz/giphy.gif" />
+ </a> 
 
 #
 
