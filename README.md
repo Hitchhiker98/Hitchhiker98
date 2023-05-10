@@ -44,14 +44,15 @@ to impactful projects that challenge me to grow as a developer. Let's create som
          <img alt="gameboy animation" width="375px" height="250" src="https://media.giphy.com/media/mfWYJSsDdiQaWc84Kz/giphy.gif" />
  </a> 
  
- ### Youtube Downloader and Chatbot
+ ### [Youtube Downloader](https://github.com/Hitchhiker98/Youtube_Downloader-Converter) and [Chatbot](https://github.com/Hitchhiker98/GeorgeBot_Landing_Page)
   <a href="https://github.com/Hitchhiker98/Youtube_Downloader-Converter">
          <img alt="Youtube Downloader" title="Click me to go to repo!" width="375px" height="250"src="https://media.giphy.com/media/SPP648QcvQBiAGIARc/giphy.gif" />
  </a> 
   <a href="https://github.com/Hitchhiker98/GeorgeBot_Landing_Page">
          <img alt="GeorgeBot" title="Click me to go to repo!" width="375px" height="250"src="https://media.giphy.com/media/CYbgjYb3vg0x8aZYTI/giphy.gif" />
  </a> 
- ### Chrome Extensions
+ 
+ ### [PicSearch Chrome Extension](https://github.com/Hitchhiker98/PicSearch_Chrome_Extension) and [GRE Words Chrome Extension](https://github.com/Hitchhiker98/GreWords_Chrome_Extension)
   <a href="https://github.com/Hitchhiker98/PicSearch_Chrome_Extension">
          <img alt="PicSearch extension" title="Click me to go to repo!" width="375px" height="250"src="https://media.giphy.com/media/h6YKHzgTfIrP1gzKxj/giphy.gif" />
  </a> 
